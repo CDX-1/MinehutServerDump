@@ -13,3 +13,7 @@ Dumps the information of a Minehut server using the Minehut API. Made by [CDX](h
 2. Run the `run.bat` file
 4. Enter the name of the Minehut server you'd like to dump
 5. Review the data of the server in the `dumps/` folder
+
+#### Can't execute the run.bat file?
+
+Open a terminal in the project's main directory and run `npm i` followed by `ts-node src/index.ts`
