@@ -5,7 +5,7 @@ Dumps the information of a Minehut server using the Minehut API. Made by [CDX](h
 
 ### Prerequisites
 
-- [NodeJS](https://nodejs.org/en/) (Made using v18.8.0, not required)
+- [NodeJS](https://nodejs.org/en/) (Made using v18.8.0, same version not required)
 
 ### Getting Started
 
