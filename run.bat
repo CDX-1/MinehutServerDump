@@ -1,2 +1,2 @@
-npm i
+call npm i
 npm run start
