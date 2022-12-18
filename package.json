@@ -1,0 +1,29 @@
+{
+  "name": "minehutserverdump",
+  "version": "1.0.0",
+  "description": "Dumps the information of a Minehut server.",
+  "main": "src/index.ts",
+  "scripts": {
+    "start": "ts-node src/index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CDX-1/MinehutServerDump.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/CDX-1/MinehutServerDump/issues"
+  },
+  "homepage": "https://github.com/CDX-1/MinehutServerDump#readme",
+  "dependencies": {
+    "@types/node": "^18.11.17",
+    "axios": "^1.2.1",
+    "chalk": "^4.1.2",
+    "ts-node": "^10.9.1",
+    "tslib": "^2.4.1",
+    "typescript": "^4.9.4"
+  }
+}

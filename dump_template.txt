@@ -1,0 +1,28 @@
+MINEHUT SERVER DATA DUMP
+This data has been obtained using the Minehut API.
+
+GENERAL
+
+Name: {name_clean}
+Id: {id}
+Online: {online}
+Equipped Icon: {icon_id} ({icon_name})
+Categories: {categories_clean}
+Purchased Icons: {icons_clean}
+MOTD: {motd_raw}
+Player Count: {players}
+Is Visible: {visibility}
+Is Proxy: {proxy}
+Is Suspended: {suspended}
+
+PLAN
+
+Plan: {plan}
+Raw Plan: {raw_plan}
+Max Players: {max_players}
+Credit Cost Per Day: {daily_cost}
+
+TIMESTAMPS
+
+Created: {created_timestamp} | {created_date}
+Last Online: {lastonline_timestamp} | {lastonline_date}
