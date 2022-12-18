@@ -11,8 +11,8 @@
     "type": "git",
     "url": "git+https://github.com/CDX-1/MinehutServerDump.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["minehut", "mh", "minecraft", "server", "mc", "dump", "dumper", "minehutserverdump", "minehutserverdumper"],
+  "author": "CDX",
   "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/CDX-1/MinehutServerDump/issues"
